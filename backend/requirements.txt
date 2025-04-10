@@ -5,3 +5,4 @@ torch
 transformers
 scikit-learn
 opencv-python
+streamlit_js_eval
