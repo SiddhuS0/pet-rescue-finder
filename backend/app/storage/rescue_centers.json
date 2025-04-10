@@ -1,0 +1,47 @@
+[
+  {
+    "id": "RC001",
+    "name": "Happy Paws Rescue Center",
+    "address": "123 Bark Street, Hyderabad",
+    "latitude": 17.385044,
+    "longitude": 78.486671,
+    "phone": "+91-9876543210",
+    "email": "contact@happypaws.org"
+  },
+  {
+    "id": "RC002",
+    "name": "Safe Haven for Pets",
+    "address": "456 Paw Lane, Secunderabad",
+    "latitude": 17.439929,
+    "longitude": 78.498276,
+    "phone": "+91-9123456780",
+    "email": "info@safehavenpets.in"
+  },
+  {
+    "id": "RC003",
+    "name": "Pet Shelter Trust",
+    "address": "789 Woof Road, Gachibowli",
+    "latitude": 17.444262,
+    "longitude": 78.349791,
+    "phone": "+91-9988776655",
+    "email": "support@petsheltertrust.com"
+  },
+  {
+    "id": "RC004",
+    "name": "Stray Aid Foundation",
+    "address": "101 Tail Avenue, Kukatpally",
+    "latitude": 17.494793,
+    "longitude": 78.399530,
+    "phone": "+91-9911223344",
+    "email": "help@strayaidfoundation.org"
+  },
+  {
+    "id": "RC005",
+    "name": "PawPal Rescue Home",
+    "address": "303 Leash Blvd, Miyapur",
+    "latitude": 17.500200,
+    "longitude": 78.391500,
+    "phone": "+91-9090909090",
+    "email": "rescue@pawpalhome.in"
+  }
+]

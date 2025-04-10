@@ -1,0 +1,59 @@
+# 🐍 Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# 🧪 Virtual Environments
+venv/
+frontend/venv/
+backend/venv/
+
+# 🌍 Environment files (e.g., API keys)
+.env
+.env.*
+
+# 🧪 Pytest cache
+.pytest_cache/
+
+# 📘 Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# 📂 System Files
+.DS_Store
+Thumbs.db
+
+# 🧠 Model Files
+*.pt
+*.pth
+*.onnx
+
+# 📦 Pip files
+Pipfile.lock
+
+# 📁 Logs
+*.log
+
+# ⚙️ VSCode and IDE configs
+.vscode/
+.idea/
+
+# 💾 Large data or asset files
+**/torch_cpu.dll
+**/dnnl.lib
+**/*.tar
+**/*.zip
+**/*.h5
+
+# 🚫 Temporary files
+*.bak
+*.tmp
+*~
+
+# 🖼️ Uploads or cached images (if any)
+uploads/
+cached_images/
+
+# 📜 JSON Storage (only if generated dynamically)
+volunteers.json
+pets.json

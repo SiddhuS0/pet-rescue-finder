@@ -1,0 +1,24 @@
+[
+    {
+        "pet_id": "a3d35187-6f08-404e-95dc-21b8d423e155",
+        "image_path": "http://127.0.0.1:8000/static/pet_images/a3d35187-6f08-404e-95dc-21b8d423e155.jpg",
+        "color": "Black",
+        "size": "Large",
+        "breed": "Doberman (88.58%)",
+        "location": {
+            "latitude": 17.52118723858141,
+            "longitude": 78.36648901343364
+        },
+        "nearest_rescue_center": {
+            "id": "RC005",
+            "name": "PawPal Rescue Home",
+            "address": "303 Leash Blvd, Miyapur",
+            "latitude": 17.5002,
+            "longitude": 78.3915,
+            "phone": "+91-9090909090",
+            "email": "rescue@pawpalhome.in"
+        },
+        "distance_to_rescue_center_km": 3.53,
+        "timestamp": "2025-04-10T05:07:11.363056"
+    }
+]
