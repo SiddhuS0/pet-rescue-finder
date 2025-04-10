@@ -12,7 +12,13 @@ from app.utils.data_store import save_pet_data, load_all_pet_data
 from app.utils.matching import calculate_combined_similarity
 from app.utils.location_utils import get_nearest_rescue_center
 from app.utils.volunteer_data_store import save_volunteer_data
+from fastapi import FastAPI
 
+app = FastAPI()
+
+@app.get("/")
+def root():
+    return {"status": "Backend working fine!"}
 router = APIRouter()
 
 # Set paths
